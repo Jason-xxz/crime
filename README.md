@@ -1,4 +1,4 @@
-# crime
+# Crime Economics and Proposition 47
 
 ## Introduction
 Among complex societal challenges, crime stands as a persistent and multifaceted issue that affects communities worldwide. While it is widely acknowledged that crime is influenced by a myriad of factors, the interplay between education, economic conditions, and geographic location remains a critical area of inquiry. Education is often posited as a tool for social mobility and a deterrent against criminal behavior. Simultaneously, economic factors such as income inequality have been correlated with crime in various studies, suggesting that economic health is a significant predictor of criminal activity. As urban, suburban, and rural areas each present distinct socio-economic profiles, the location of districts may also contribute to differences in crime rates.
